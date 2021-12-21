@@ -32,6 +32,8 @@ Skal melde svar tilbage til portal/database
 
 Teknologier: Ansible / Molekule
 
+https://www.ansible.com/blog/developing-and-testing-ansible-roles-with-molecule-and-podman-part-1
+
 ## Design Metode:
 
 Ops-programmering: Quick and dirty does it.. vi skal ikke bruge uger på det her projekt..
