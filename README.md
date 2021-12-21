@@ -17,7 +17,7 @@ Portal skal kunne vise om den løsning man har uploadet enten er: OK, under beha
 
 Opret nye opgaver, med følgende options: antal af maskiner, prereq data, Inventory mm.
 
-
+Samtidig skal man for nye opgaver kunne definere forventet resultat, defineret med en playbook
 
 
 ## Backend:
