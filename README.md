@@ -1,6 +1,6 @@
 # ansible-gamification
 
-Portal:
+## Portal:
 
 Opret login / Login
 
@@ -13,14 +13,14 @@ Portal skal indeholde en list af opgaver, mulighed for at download inventory + p
 Portal skal kunne vise om den løsning man har uploadet enten er: OK, under behandling eller Forkert
 
 
-Portal Admin del:
+## Portal Admin del:
 
 Opret nye opgaver, med følgende options: antal af maskiner, prereq data, Inventory mm.
 
 
 
 
-Backend:
+## Backend:
 
 Backend skal kunne samle en uploadet løsning fra portalen op og teste. Evt ved at køre det i en eller flere containere.
 
