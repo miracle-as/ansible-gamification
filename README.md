@@ -12,6 +12,8 @@ Portal skal indeholde en list af opgaver, mulighed for at download inventory + p
 
 Portal skal kunne vise om den løsning man har uploadet enten er: OK, under behandling eller Forkert
 
+Teknologier:
+
 
 ## Portal Admin del:
 
@@ -19,9 +21,13 @@ Opret nye opgaver, med følgende options: antal af maskiner, prereq data, Invent
 
 Samtidig skal man for nye opgaver kunne definere forventet resultat, defineret med en playbook
 
+Teknologier:
+
 
 ## Backend:
 
 Backend skal kunne samle en uploadet løsning fra portalen op og teste. Evt ved at køre det i en eller flere containere.
 
 Skal melde svar tilbage til portal/database
+
+Teknologier: Ansible / Molekule
