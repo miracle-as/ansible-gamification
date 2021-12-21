@@ -31,3 +31,7 @@ Backend skal kunne samle en uploadet løsning fra portalen op og teste. Evt ved 
 Skal melde svar tilbage til portal/database
 
 Teknologier: Ansible / Molekule
+
+## Design Metode:
+
+Ops-programmering: Quick and dirty does it.. vi skal ikke bruge uger på det her projekt..
